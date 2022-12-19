@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Chaerul",
+    "umur": 23,
+    "nim": "15200135",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembibing": {
+      "pembibing1": "naruto",
+      "pembibing2": "sasuke"
+    }
+  },
+  {
+    "nama": "Chaerul",
+    "umur": 23,
+    "nim": "15200135",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembibing": {
+      "pembibing1": "naruto",
+      "pembibing2": "sasuke"
+    }
+  }
+]
