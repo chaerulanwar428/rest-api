@@ -27,6 +27,28 @@
     </div>
     </nav>
 
+    <div class="container">
+      <div class="row mt-3">
+        <div class="col">
+          <h1>All Menu</h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card" >
+          <img src="img/menu/american-favourite.jpg" class="card-img-top" >
+            <div class="card-body">
+              <h5 class="card-title">American Favourite</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <h5 class="card-title">Rp. 60.000,- </h5>
+              <a href="#" class="btn btn-primary">Pesan Sekarang</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.6.2.min.js" integrity="sha256-2krYZKh//PcchRtd+H+VyyQoZ/e3EcrkxhM8ycwASPA=" crossorigin="anonymous"></script>
