@@ -5,9 +5,9 @@
     "nim": "15200135",
     "lulus": true,
     "hobby": ["coding", "gaming"],
-    "pembibing": {
-      "pembibing1": "naruto",
-      "pembibing2": "sasuke"
+    "pembimbing": {
+      "pembimbing1": "naruto",
+      "pembimbing2": "sasuke"
     }
   },
   {
@@ -16,9 +16,9 @@
     "nim": "15200135",
     "lulus": true,
     "hobby": ["coding", "gaming"],
-    "pembibing": {
-      "pembibing1": "naruto",
-      "pembibing2": "sasuke"
+    "pembimbing": {
+      "pembimbing1": "naruto",
+      "pembimbing2": "sasuke"
     }
   }
 ]
