@@ -1,4 +1,5 @@
 function tampilkanSemuaMenu() {
+  $('#daftar-menu').html('');
   $.getJSON('data/pizza.json', function (data) {
     let menu = data.menu;
     $.each(menu, function (i, data) {
