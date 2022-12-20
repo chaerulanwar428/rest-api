@@ -32,6 +32,7 @@ $('#search-button').on('click', function () {
 </div>`
           );
         });
+        $('#search-input').val('');
       } else {
         $('#movielist').html(
           `
