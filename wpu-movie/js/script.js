@@ -1,4 +1,4 @@
-$('#search-button').on('click', function () {
+function searchMovie() {
   $('#movielist').html('');
 
   $.ajax({
@@ -47,4 +47,13 @@ $('#search-button').on('click', function () {
       }
     },
   });
+}
+
+$('#search-button').on('click', function () {
+  searchMovie();
+});
+$('#search-input').on('keyup', function (e) {
+  if (e.which === 13) {
+    searchMovie();
+  }
 });
